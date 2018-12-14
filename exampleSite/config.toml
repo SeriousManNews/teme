@@ -1,5 +1,5 @@
 #This config file is only meant for Hugo Themes website, for testing purposes, refer to the other two.
-baseURL = "https://dream-plus-posts.netlify.com/"
+baseURL = "seriousman.it"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "UtkarshVerma's Blog"
